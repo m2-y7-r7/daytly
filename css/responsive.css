@@ -1,0 +1,14 @@
+@media(max-width:1000px){
+ 
+ 
+}
+
+@media(max-width:670px){
+  .contents{
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  
+  
+}
